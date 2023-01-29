@@ -1,0 +1,10 @@
+dina jaradat
+
+How to avoid being one of the victims and the key points
+that every developer must master.
+Good developers understand what they are doing,
+have to conceive the purpose of the software design 
+systems, control complexity , Dividethe problem and
+" Your main goal should be keeping your code base as small
+as possible. The question is not “How can I write more code?”
+rather it should be “How can I remove more code?”.
